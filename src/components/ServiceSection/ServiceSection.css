@@ -1,0 +1,33 @@
+.services-section{
+    margin: 50px 0px;
+    background-color: rgba(211, 211, 211, 0.041);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.our-services{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.services{
+    color: #ffb84d;
+}
+
+.service-btn{
+    margin-top: 30px;
+    background-color: #ffb84d;
+    color: #00264d;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 40px;
+    border: 1px solid #00264d;
+    border-radius: 10px;
+}
+
+.service-btn:hover{
+    color: #ffb84d;
+    background-color: #00264d;
+    border: 1px solid #ffb84d;
+}

@@ -1,0 +1,40 @@
+.form-heading{
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.contact-us{
+    background-color: #00264d;
+    border-radius: 10px;
+    padding: 20px;
+    height: 400px;
+}
+
+.contact-info{
+    color: white;
+    text-align: left;
+}
+
+.info-heading{
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.contact-find{
+    color: white;
+    text-align: left;
+}
+
+.find-heading{
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.contact-form{
+    background-color: #ffb84d;
+    border-radius: 10px;
+    padding: 20px;
+    height: 400px;
+}
+

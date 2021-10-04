@@ -1,0 +1,79 @@
+[
+    {
+      "key": 101,
+      "image": "https://media.istockphoto.com/photos/male-pupil-in-high-school-art-class-with-teacher-picture-id498512265?s=612x612",
+      "service_name": "High School Arts Classes",
+      "duration": "02 hours",
+      "description": "When children join a new class, they may be nervous and unsure about what to expect. Families want to know if they will"
+    },
+    {
+      "key": 102,
+      "image": "https://media.istockphoto.com/photos/online-education-concept-picture-id636332456?s=612x612",
+      "service_name": "Advanced Algebra",
+      "duration": "02 hours",
+      "description": "This course extends the study of algebra begun in Algebra AB for high school students to excel in maths."
+    },
+    {
+      "key": 103,
+      "image": "https://media.istockphoto.com/photos/digital-binary-code-concept-picture-id1032524356?b=1&k=20&m=1032524356&s=170667a&w=0&h=ZF6GSWLV_mKfx_rEWMrWqBBgkGV3K12R0bdIP6RhHNE=",
+      "service_name": "Statistics Introduction",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 104,
+      "image": "https://media.istockphoto.com/vectors/chalk-doodle-math-blackboard-vector-id1168040655?k=20&m=1168040655&s=612x612&w=0&h=rUjU7BSATXqG2bDiUHK2ZV5ZPm9WE-KKaf0NKY8mjf0=",
+      "service_name": "Trigonometry Classes",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 105,
+      "image": "https://cdn.pixabay.com/photo/2017/04/06/17/02/latin-2208822__340.jpg",
+      "service_name": "Latin Language",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 106,
+      "image": "https://cdn.pixabay.com/photo/2017/11/11/00/31/spanish-2938033__340.jpg",
+      "service_name": "Spanish Language",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 107,
+      "image": "https://cdn.pixabay.com/photo/2017/09/07/10/07/english-2724442__340.jpg",
+      "service_name": "English Language",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 108,
+      "image": "https://cdn.pixabay.com/photo/2019/12/21/20/44/math-work-4711302_960_720.jpg",
+      "service_name": "physics",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 109,
+      "image": "https://cdn.pixabay.com/photo/2017/10/04/09/56/chemist-2815640_960_720.jpg",
+      "service_name": "chemistry",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 110,
+      "image": "https://cdn.pixabay.com/photo/2015/03/21/10/26/environmental-protection-683437_960_720.jpg",
+      "service_name": "biology",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    },
+    {
+      "key": 111,
+      "image": "https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_960_720.jpg",
+      "service_name": "computer",
+      "duration": "02 hours",
+      "description": "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. Learn more about manual"
+    }
+  ]

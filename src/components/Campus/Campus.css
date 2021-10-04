@@ -1,0 +1,20 @@
+.campus-section{
+    margin: 100px 0px;
+}
+
+.our-campus{
+    margin: 20px;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.campus{
+    color: #ffb84d;
+}
+
+.campus-paragraph{
+    font-size: 16px;
+    font-weight: 400px;
+    letter-spacing: 0.8px;
+    line-height: 26px;
+}

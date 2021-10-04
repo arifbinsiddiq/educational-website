@@ -1,0 +1,15 @@
+
+.nav-logo{
+    width: 80px;
+    height: 80px;
+}
+
+.nav-logo img{
+    width: 100%;
+}
+
+.nav-menu{
+    font-size: 18px;
+    font-weight: 500;
+    
+}
